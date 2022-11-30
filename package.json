@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.1",
+    "bootstrap": "^5.2.3",
+    "sass": "^1.56.1",
     "vue": "^3.2.41"
   },
   "devDependencies": {
